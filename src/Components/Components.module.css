@@ -1,0 +1,28 @@
+
+
+.introductionParagraph {
+  padding: 50px;
+  border-radius: 20px;
+  color: rgb(216, 215, 198);
+  background-color: rgb(5, 24, 22);
+  font-size: 2rem;
+  font-weight: 900;
+  border: none;
+  line-break: loose;
+  text-align: justify;
+}
+.aboutMySelf {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  padding: 60px;
+}
+.aboutMySelf img {
+  height: 50vh;
+  width: 50%;
+  padding: 10px;
+}
+
+.aboutMySelf img:hover {
+  image-orientation: cover;
+}

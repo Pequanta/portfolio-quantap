@@ -1,0 +1,28 @@
+@keyframes fade {
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+
+}
+
+@keyframes type{
+    from{
+        width: 0;
+    }to{
+        width: 100px;
+    }
+}
+
+span , img{
+    animation: fade 0.5s ease-in;
+}
+
+p{
+    animation: type 2s linear 0s infinite alternate;
+}
+
+a{
+    cursor: pointer;
+}
