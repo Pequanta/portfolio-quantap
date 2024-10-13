@@ -134,7 +134,7 @@ function MainPage() {
                   <img src={aby} className="w-25 rounded-circle mx-5"/>
                   <div className="d-flex flex-column">
                     <span className="fs-1">Abyssinian</span>
-                    <p>Githublink: <a href="#">Pequanta/Abyssinian</a></p>
+                    <p>Githublink: <a href="https://github.com/Pequanta/Abyssinian">Pequanta/Abyssinian</a></p>
                   </div>
                 </div>
               </div>
@@ -153,7 +153,7 @@ function MainPage() {
                 <img src={sece} className="w-25 rounded-circle mx-5"/>
                 <div className="d-flex flex-column">
                   <span className="fs-1">SECE</span>
-                  <p>Githublink: <a href="#">Pequanta/Abyssinian</a></p>
+                  <p>Githublink: <a href="https://github.com/Pequanta/communityPlatform-0.0.1">Pequanta/Community-platform</a></p>
                 </div>
               </div>
               <div className="col d-flex align-items-center fs-5 fw-1">
@@ -172,7 +172,7 @@ function MainPage() {
                 <img src={fs} className="w-25 rounded-circle mx-5"/>
                 <div className="d-flex flex-column">
                   <span className="fs-1">FS in Java</span>
-                  <p>Githublink: <a href="https://github.com/Pequanta/FS_in_java">Pequanta/Abyssinian</a></p>
+                  <p>Githublink: <a href="https://github.com/Pequanta/FS_in_java">Pequanta/Fs_in_java</a></p>
                 </div>
               
               
